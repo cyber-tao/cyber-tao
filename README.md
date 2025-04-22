@@ -70,7 +70,7 @@
 ---
 
 <p align="center">
-  📈 <img src="https://komarev.com/ghpvc/?username=cyber-tao&style=for-the-badge&color=FFD700" alt="cyber-tao visitor count"/>
+  <img src="https://komarev.com/ghpvc/?username=cyber-tao&style=for-the-badge&color=FFD700" alt="cyber-tao visitor count"/>
 </p>
 
 ---
