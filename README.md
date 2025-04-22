@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Blog-hank.host-181818?style=for-the-badge&logo=wordpress&logoColor=FFD700" alt="blog"/>
   </a>
   <a href="mailto:hank@hank.host">
-    <img src="https://img.shields.io/badge/Email-Contact-FFD700?style=for-the-badge&logo=gmail&logoColor=181818" alt="email"/>
+    <img src="https://img.shields.io/badge/Email-Contact-181818?style=for-the-badge&logo=gmail&logoColor=FFD700" alt="email"/>
   </a>
   <a href="https://github.com/cyber-tao">
     <img src="https://img.shields.io/github/followers/cyber-tao?label=Follow&style=for-the-badge&color=181818&logo=github&logoColor=FFD700" alt="github followers"/>
