@@ -37,11 +37,9 @@
   <img src="https://img.shields.io/badge/ASM-00FFD0?style=for-the-badge&logo=assemblyscript&logoColor=181818"/>
   <img src="https://img.shields.io/badge/C/C++-00B4FF?style=for-the-badge&logo=cplusplus&logoColor=181818"/>
   <img src="https://img.shields.io/badge/Basic-00FFD0?style=for-the-badge&logo=basic&logoColor=181818"/>
+  <img src="https://img.shields.io/badge/Python-00B4FF?style=for-the-badge&logo=python&logoColor=181818"/>
   <img src="https://img.shields.io/badge/Unity-00B4FF?style=for-the-badge&logo=unity&logoColor=181818"/>
   <img src="https://img.shields.io/badge/UnrealEngine-00FFD0?style=for-the-badge&logo=unrealengine&logoColor=181818"/>
-  <img src="https://img.shields.io/badge/Python-00B4FF?style=for-the-badge&logo=python&logoColor=181818"/>
-  <img src="https://img.shields.io/badge/JavaScript-00FFD0?style=for-the-badge&logo=javascript&logoColor=181818"/>
-  <img src="https://img.shields.io/badge/React-00B4FF?style=for-the-badge&logo=react&logoColor=181818"/>
   <img src="https://img.shields.io/badge/Docker-00FFD0?style=for-the-badge&logo=docker&logoColor=181818"/>
   <img src="https://img.shields.io/badge/Linux-00B4FF?style=for-the-badge&logo=linux&logoColor=181818"/>
   <img src="https://img.shields.io/badge/AI-00FFD0?style=for-the-badge&logo=openai&logoColor=181818"/>
@@ -49,14 +47,10 @@
 
 ---
 
-<h2 align="center">🔥 活跃统计 & 动效 | Stats & Animations</h2>
+<h2 align="center">🔥 活跃统计 | Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cyber-tao&show_icons=true&theme=react&bg_color=181818&title_color=00FFD0&icon_color=00B4FF&text_color=FFFFFF" alt="cyber-tao stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyber-tao&theme=react&background=181818&ring=00FFD0&fire=00FFD0&currStreakNum=00FFD0" alt="cyber-tao streak" />
 </p>
 
 <p align="center">
