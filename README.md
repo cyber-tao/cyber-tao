@@ -14,7 +14,7 @@
   <a href="https://github.com/cyber-tao">
     <img src="https://img.shields.io/github/followers/cyber-tao?label=Follow&style=for-the-badge&color=181818&logo=github&logoColor=FFD700" alt="github followers"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=cyber-tao&style=for-the-badge&color=FFD700" alt="cyber-tao visitor count"/>
+  <img src="https://komarev.com/ghpvc/?username=cyber-tao&style=for-the-badge&color=181818" alt="cyber-tao visitor count"/>
 </p>
 
 ---
