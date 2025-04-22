@@ -14,6 +14,7 @@
   <a href="https://github.com/cyber-tao">
     <img src="https://img.shields.io/github/followers/cyber-tao?label=Follow&style=for-the-badge&color=181818&logo=github&logoColor=FFD700" alt="github followers"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=cyber-tao&style=for-the-badge&color=FFD700" alt="cyber-tao visitor count"/>
 </p>
 
 ---
@@ -67,13 +68,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cyber-tao/cyber-tao/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cyber-tao&style=for-the-badge&color=FFD700" alt="cyber-tao visitor count"/>
-</p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:181818,100:FFD700&height=120&section=footer"/>
