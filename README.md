@@ -55,6 +55,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=cyber-tao&theme=gruvbox-duo" alt="GitHub Streak" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-tao&layout=compact&theme=react&bg_color=181818&title_color=FFD700&text_color=FFF8DC&hide_border=true" alt="cyber-tao top languages" />
 </p>
 
