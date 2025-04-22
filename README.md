@@ -1,6 +1,6 @@
 <!-- 动态标题 -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=00FFD0&center=true&vCenter=true&width=650&lines=Hi!+I+am+cyber-tao;欢迎来到我的GitHub世界!;Code+is+my+art.+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=00FFD0&center=true&vCenter=true&width=650&lines=Hi!+I+am+Hank;欢迎来到我的赛博陶园!;Code+is+my+art.+" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -63,9 +63,11 @@
 
 <h2 align="center">✨ 动态贡献贪吃蛇</h2>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cyber-tao/cyber-tao/output/github-contribution-grid-snake.svg" alt="github contribution snake" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyber-tao/cyber-tao/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyber-tao/cyber-tao/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cyber-tao/cyber-tao/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
