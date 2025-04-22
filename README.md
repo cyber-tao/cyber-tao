@@ -34,15 +34,15 @@
 <h2 align="center" style="color:#FFD700">🛠️ 技能栈 | Tech Stack</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ASM-FFD700?style=for-the-badge&logo=assemblyscript&logoColor=181818"/>
+  <img src="https://img.shields.io/badge/ASM-181818?style=for-the-badge&logo=assemblyscript&logoColor=FFD700"/>
   <img src="https://img.shields.io/badge/C/C++-181818?style=for-the-badge&logo=cplusplus&logoColor=FFD700"/>
-  <img src="https://img.shields.io/badge/Basic-FFD700?style=for-the-badge&logo=basic&logoColor=181818"/>
+  <img src="https://img.shields.io/badge/Basic-181818?style=for-the-badge&logo=basic&logoColor=FFD700"/>
   <img src="https://img.shields.io/badge/Python-181818?style=for-the-badge&logo=python&logoColor=FFD700"/>
   <img src="https://img.shields.io/badge/Unity-181818?style=for-the-badge&logo=unity&logoColor=FFD700"/>
-  <img src="https://img.shields.io/badge/UnrealEngine-FFD700?style=for-the-badge&logo=unrealengine&logoColor=181818"/>
-  <img src="https://img.shields.io/badge/Docker-FFD700?style=for-the-badge&logo=docker&logoColor=181818"/>
+  <img src="https://img.shields.io/badge/UnrealEngine-181818?style=for-the-badge&logo=unrealengine&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/Docker-181818?style=for-the-badge&logo=docker&logoColor=FFD700"/>
   <img src="https://img.shields.io/badge/Linux-181818?style=for-the-badge&logo=linux&logoColor=FFD700"/>
-  <img src="https://img.shields.io/badge/AI-FFD700?style=for-the-badge&logo=openai&logoColor=181818"/>
+  <img src="https://img.shields.io/badge/AI-181818?style=for-the-badge&logo=openai&logoColor=FFD700"/>
 </p>
 
 ---
