@@ -31,7 +31,7 @@
 
 ---
 
-<h2 align="center" style="color:#FFD700">🛠️ 技能栈 | Tech Stack</h2>
+<h2 align="center" style="color:#FFD700">🛠️ Tech Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/ASM-181818?style=for-the-badge&logo=assemblyscript&logoColor=FFD700"/>
@@ -47,7 +47,7 @@
 
 ---
 
-<h2 align="center" style="color:#FFD700">🔥 活跃统计 | Stats</h2>
+<h2 align="center" style="color:#FFD700">🔥 Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cyber-tao&show_icons=true&theme=react&bg_color=181818&title_color=FFD700&icon_color=FFD700&text_color=FFF8DC" alt="cyber-tao stats" />
@@ -59,7 +59,7 @@
 
 ---
 
-<h2 align="center" style="color:#FFD700">✨ 动态贡献贪吃蛇 | Contribution Snake</h2>
+<h2 align="center" style="color:#FFD700">✨ Contribution Snake</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyber-tao/cyber-tao/output/github-contribution-grid-snake-dark.svg">
@@ -69,10 +69,8 @@
 
 ---
 
-<h2 align="center" style="color:#FFD700">📈 访问统计 | Visitor Count</h2>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cyber-tao&style=for-the-badge&color=FFD700" alt="cyber-tao visitor count"/>
+  📈 <img src="https://komarev.com/ghpvc/?username=cyber-tao&style=for-the-badge&color=FFD700" alt="cyber-tao visitor count"/>
 </p>
 
 ---
