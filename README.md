@@ -52,10 +52,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cyber-tao&show_icons=true&theme=react&bg_color=181818&title_color=FFD700&icon_color=FFD700&text_color=FFF8DC" alt="cyber-tao stats" />
-</p>
-
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-tao&layout=compact&theme=react&bg_color=181818&title_color=FFD700&text_color=FFF8DC&hide_border=true" alt="cyber-tao top languages" />
 </p>
 
